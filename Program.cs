@@ -71,7 +71,6 @@
             Calculator calculator = new Calculator(logger);
             ((ISummarize)calculator).Summ(a, b);
 
-            Console.WriteLine("Hello, World!");
         }
     }
 }
